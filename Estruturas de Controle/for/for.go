@@ -27,7 +27,7 @@ func main() {
 
 	for {
 		// laco infinito
-		fmt.Println("Para sempre...")
+		fmt.Println("Te amo pra sempre...")
 		time.Sleep(time.Second)
 	}
 }
